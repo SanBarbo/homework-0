@@ -1,1 +1,3 @@
-library(tidyverse)
+a <- 2+2
+
+c <- a^2
